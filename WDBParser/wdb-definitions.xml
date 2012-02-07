@@ -7,11 +7,16 @@
     <wdbElement name="Name2" type="varChar" />
     <wdbElement name="Name3" type="varChar" />
     <wdbElement name="Name4" type="varChar" />
+    <wdbElement name="Unk" type="varChar" />
+    <wdbElement name="Unk2" type="varChar" />
+    <wdbElement name="Unk3" type="varChar" />
+    <wdbElement name="Unk4" type="varChar" />
     <wdbElement name="SubName" type="varChar" />
     <wdbElement name="IconName" type="varChar" />
     <wdbElement name="Flags" type="uinteger" />
+    <wdbElement name="Flags2" type="uinteger" />
     <wdbElement name="Type" type="uinteger" />
-    <wdbElement name="Family" type="integer" />
+    <wdbElement name="Family" type="uinteger" />
     <wdbElement name="Rank" type="uinteger" />
     <wdbElement name="KillCredit1" type="uinteger" />
     <wdbElement name="KillCredit2" type="uinteger" />
@@ -302,6 +307,14 @@
     <wdbElement name="data21" type="uinteger" />
     <wdbElement name="data22" type="uinteger" />
     <wdbElement name="data23" type="uinteger" />
+    <wdbElement name="data24" type="uinteger" />
+    <wdbElement name="data25" type="uinteger" />
+    <wdbElement name="data26" type="uinteger" />
+    <wdbElement name="data27" type="uinteger" />
+    <wdbElement name="data28" type="uinteger" />
+    <wdbElement name="data29" type="uinteger" />
+    <wdbElement name="data30" type="uinteger" />
+    <wdbElement name="data31" type="uinteger" />
     <wdbElement name="Size" type="single" />
     <wdbElement name="QuestItem1" type="uinteger" />
     <wdbElement name="QuestItem2" type="uinteger" />
